@@ -1,0 +1,311 @@
+.fuzhuang{
+    width: 1375px;
+    height: 720px;
+    position: absolute;
+    top: 1910px;
+    left: 270px;
+}
+.shang1{
+    width: 1375px;
+    height: 355px;
+}
+.xia1{
+    width: 1375px;
+    height: 355px;
+    margin-top: 10px;
+}
+.yan1{
+    width: 295px;
+    height: 355px;
+    background-color: #e45600;
+    float: left;
+
+}
+.tu1{
+    width: 540px;
+    height: 355px;
+    background: url("../images/21.jpg");
+    float: left;
+}
+.chan1{
+    width: 270px;
+    height: 355px;
+    background: url("../images/27.jpg") no-repeat;
+    float: left;
+    text-align: center;
+}
+.ping1{
+    width: 270px;
+    height: 355px;
+    background: url("../images/28.jpg") no-repeat;
+    float: left;
+}
+.zhan1{
+    width: 265px;
+    height: 355px;
+    background: url("../images/22.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan2{
+    width: 265px;
+    height: 355px;
+    background: url("../images/23.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan3{
+    width: 265px;
+    height: 355px;
+    background: url("../images/24.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan4{
+    width: 265px;
+    height: 355px;
+    background: url("../images/25.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan5{
+    width: 265px;
+    height: 355px;
+    background: url("../images/26.jpg") no-repeat;
+    float: left;
+}
+.toutou li{
+    list-style: none;
+}
+.toutou{
+    position: absolute;
+    bottom: 15px;
+}
+.l456{
+    color: #e45600;
+}
+.meide{
+    width: 120px;
+    height: 40px;
+    margin-top: 280px;
+    margin-left: 75px;
+    border: solid #e45600 1px;
+    line-height: 40px;
+    border-radius: 30px;
+    text-align: center;
+}
+.jujia{
+    width: 1375px;
+    height: 720px;
+    position: absolute;
+    top: 2650px;
+    left: 270px;
+}
+.yan2{
+    width: 295px;
+    height: 355px;
+    background-color: #00b258;
+    float: left;
+
+}
+.tu2{
+    width: 540px;
+    height: 355px;
+    background: url("../images/30.jpg");
+    float: left;
+}
+.chan2{
+    width: 270px;
+    height: 355px;
+    background: url("../images/29.jpg") no-repeat;
+    float: left;
+    text-align: center;
+}
+.ping2{
+    width: 270px;
+    height: 355px;
+    background: url("../images/31.jpg") no-repeat;
+    float: left;
+}
+.zhan6{
+    width: 265px;
+    height: 355px;
+    background: url("../images/32.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan7{
+    width: 265px;
+    height: 355px;
+    background: url("../images/33.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan8{
+    width: 265px;
+    height: 355px;
+    background: url("../images/34.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan9{
+    width: 265px;
+    height: 355px;
+    background: url("../images/35.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan10 {
+    width: 265px;
+    height: 355px;
+    background: url("../images/36.jpg") no-repeat;
+    float: left;
+}
+.caizhuang{
+    width: 1375px;
+    height: 720px;
+    position: absolute;
+    top: 3390px;
+    left: 270px;
+}
+.yan3{
+    width: 295px;
+    height: 355px;
+    background-color: #f88ea7;
+    float: left;
+
+}
+.tu3{
+    width: 540px;
+    height: 355px;
+    background: url("../images/37.jpg");
+    float: left;
+}
+.chan3{
+    width: 270px;
+    height: 355px;
+    background: url("../images/28.jpg") no-repeat;
+    float: left;
+    text-align: center;
+}
+.ping3{
+    width: 270px;
+    height: 355px;
+    background: url("../images/39.jpg") no-repeat;
+    float: left;
+}
+.zhan11{
+    width: 265px;
+    height: 355px;
+    background: url("../images/40.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan12{
+    width: 265px;
+    height: 355px;
+    background: url("../images/41.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan13{
+    width: 265px;
+    height: 355px;
+    background: url("../images/42.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan14{
+    width: 265px;
+    height: 355px;
+    background: url("../images/43.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan15 {
+    width: 265px;
+    height: 355px;
+    background: url("../images/44.jpg") no-repeat;
+    float: left;
+}
+.dianzi{
+    width: 1375px;
+    height: 720px;
+    position: absolute;
+    top: 4130px;
+    left: 270px;
+}
+.yan4{
+    width: 295px;
+    height: 355px;
+    background-color: #00a9e0;
+    float: left;
+
+}
+.tu4{
+    width: 540px;
+    height: 355px;
+    background: url("../images/45.jpg");
+    float: left;
+}
+.chan4{
+    width: 270px;
+    height: 355px;
+    background: url("../images/46%20(1).jpg") no-repeat;
+    float: left;
+    text-align: center;
+}
+.ping4{
+    width: 270px;
+    height: 355px;
+    background: url("../images/46%20(2).jpg") no-repeat;
+    float: left;
+}
+.zhan16{
+    width: 265px;
+    height: 355px;
+    background: url("../images/48%20(1).jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan17{
+    width: 265px;
+    height: 355px;
+    background: url("../images/48%20(2).jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan18{
+    width: 265px;
+    height: 355px;
+    background: url("../images/50.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan19{
+    width: 265px;
+    height: 355px;
+    background: url("../images/51.jpg") no-repeat;
+    float: left;
+    margin-right: 12px;
+}
+.zhan20 {
+    width: 265px;
+    height: 355px;
+    background: url("../images/52.jpg") no-repeat;
+    float: left;
+}
+.chen li{
+    list-style: none;
+    color: white;
+    /*word-spacing: 30px;*/
+    margin-top: 30px;
+}
+.mingchen1{
+    position: absolute;
+    top: 55px;
+    left: 150px;
+}
+.mao{
+    text-align: center;
+}

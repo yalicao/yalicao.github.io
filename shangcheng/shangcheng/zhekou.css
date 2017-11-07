@@ -1,0 +1,61 @@
+.zhekou{
+    width: 1380px;
+    height: 574px;
+    position: absolute;
+    top: 1300px;
+    left: 270px;
+}
+.now{
+    width: 320px;
+    height: 574px;
+    float: left;
+    margin-right: 15px;
+}
+.shop img{
+    width: 320px;
+    height: 574px;
+}
+.shop{
+    position: absolute;
+    left:-155px;
+    top: 75px;
+}
+.off{
+    width: 705px;
+    height: 574px;
+    float: left;
+    margin-right: 15px;
+}
+.off img{
+    width: 705px;
+    height: 574px;
+}
+.fenggou{
+    position: absolute;
+    top: 75px;
+    left:180px;
+}
+.sanfeng{
+    width: 320px;
+    height: 574px;
+    float: left;
+}
+.sanfeng img{
+    width: 320px;
+    height: 187px;
+}
+.f1{
+    position: absolute;
+    top: 75px;
+    right: 480px;
+}
+.f2{
+    position: absolute;
+    top: 268px;
+    right: 480px;
+}
+.f3{
+    position: absolute;
+    bottom: 112px;
+    right: 480px;
+}

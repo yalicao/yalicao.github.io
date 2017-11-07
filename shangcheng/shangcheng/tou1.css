@@ -1,0 +1,64 @@
+
+.tou{
+    background-color: #eeeeee;
+    width: auto;
+    height:30px;
+    position: relative;
+}
+.neirong{
+    width: 1400px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    left: 260px;
+}
+.huanying{
+    width: 350px;
+    height: 30px;
+    float: left;
+}
+.dianjidenglu{
+    width: 350px;
+    height: 30px;
+    float: left;
+}
+.login_link{
+    text-decoration: none;
+    color: #e45600;
+}
+.reg_link{
+    text-decoration: none;
+    color: #e45600;
+}
+.sheweishouye{
+    width: 350px;
+    height: 30px;
+    float: left;
+}
+.bmark{
+    text-decoration: none;
+    position: absolute;
+    right: 425px;
+    color: #555555;
+}
+.bookdelimiter{
+    position: absolute;
+    right: 418px;
+}
+.bmarks{
+    text-decoration: none;
+    position: absolute;
+    right: 350px;
+    color: #555555;
+}
+.lianxi{
+    width: 350px;
+    height: 30px;
+    float: left;
+}
+.women{
+    position: absolute;
+    right: 0px;
+    text-decoration: none;
+    color: #555555;
+}

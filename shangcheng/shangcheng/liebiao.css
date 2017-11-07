@@ -1,0 +1,273 @@
+
+.liebiao{
+    width: auto;
+    height: 2600px;
+    position: relative;
+}.neirong3{
+     width: 1400px;
+     height: 2500px;
+     position: absolute;
+     top: 50px;
+     left: 260px;
+ }
+.remaituijian{
+    width: 276px;
+    height: 2500px;
+    border: solid #e45600 1px;
+    float: left;
+}
+.liebiaozhanshi{
+    width: 1080px;
+    height: 2500px;
+    /*background-color: #e45600;*/
+    float: left;
+    margin-left: 10px;
+}
+.zi3{
+    background-color: #e45600;
+    color: white;
+    width: 276px;
+    height: 43px;
+    text-align: center;
+    line-height: 43px;
+    position: absolute;
+    top: -16px;
+}
+.r1{
+    width: 276px;
+    height: 343px;
+    margin-top: 50px;
+    /*border: solid #666666 0.5px;*/
+
+}
+.r1 img{
+    width: 255px;
+    height: 255px;
+    margin-left: 10px;
+}
+.zi4{
+    text-align: center;
+}
+.zi4 a{
+    text-decoration: none;
+    color: #333333;
+}
+.zi4 a:hover{
+    color: #e45600;
+}
+.zi5{
+    text-align: center;
+    color: #e45600;
+    font-size: 18px;
+}
+.suoying{
+    width: 1080px;
+    height: 43px;
+    background-color: #eeeeee;
+}
+.pailing{
+    width: 1080px;
+    height: 43px;
+    background-color: #eeeeee;
+    margin-top: 20px;
+}
+.zi6{
+    line-height: 43px;
+    text-align: center;
+    margin-left: 10px;
+}
+.moren{
+    width: 124px;
+    height: 43px;
+    border: solid #666666 0.5px;
+    float: left;
+    position: relative;
+}
+.zi7{
+    font-size: 14px;
+    position: absolute;
+    top: 12px;
+    left:48px;
+
+}
+.zongjia{
+    width: 124px;
+    height: 43px;
+    border: solid #666666 0.5px;
+    float: left;
+}
+.zi8{
+    font-size: 14px;
+    line-height: 43px;
+    margin-left: 15px;
+}
+.zongjia img{
+    position: absolute;
+    /*margin-right: 5px;*/
+    left: 492px;
+    top: 63px;
+}
+.jiage{
+    width: 320px;
+    height: 43px;
+    border: solid #666666 0.5px;
+    float: left;
+}
+.fuhao{
+    color: #e45600;
+    font-size: 18px;
+    line-height: 43px;
+}
+.jiage1{
+    border: solid #666666 0.5px;
+    width: 80px;
+    height: 22px;
+    float: left;
+    margin-left: 25px;
+    position: absolute;
+    left: 547px;
+    top: 74px;
+}
+.jiage2{
+    border: solid #666666 0.5px;
+    width: 80px;
+    height: 22px;
+    float: left;
+    margin-left: 25px;
+    position: absolute;
+    left: 666px;
+    top: 74px;
+}
+.jiage1:hover{
+    border: solid #e45600 0.5px;
+}
+.jiage2:hover{
+    border: solid #e45600 0.5px;
+}
+.jianhao{
+    position: absolute;
+    top: 74px;
+    left: 669px;
+    font-size: 18px;
+}
+.anniu1{
+    position: absolute;
+    top: 74px;
+    left: 782px;
+}
+.anniu1:hover{
+    color: white;
+    background-color: #e45600;
+}
+.queding{
+    width: 280px;
+    height: 43px;
+    border: solid #666666 0.5px;
+    float: left;
+}
+.queding1{
+    height: 20px;
+    position: absolute;
+    right: 350px;
+    top: 72px;
+}
+.queding2{
+    background-color: #e45600;
+    color: white;
+    position: absolute;
+    right: 300px;
+    top: 73px;
+}
+.shi{
+    width: 1080px;
+    height: 350px;
+    margin-top: 50px;
+}
+.q1{
+    width: 260px;
+    height: 350px;
+    float: left;
+}
+.q2{
+     width: 260px;
+     height: 350px;
+     float: left;
+     margin-left: 10px;
+ }
+.q1:hover{
+    cursor: pointer;
+    border: solid 1px #e45600;
+}
+.q2:hover{
+    cursor: pointer;
+    border: solid 1px #e45600;
+}
+.shide{
+    width: 270px;
+    height: 95px;
+}
+
+.shide li{
+    margin-top: 20px;
+    list-style:none;
+    text-align: center;
+    margin-left: -47px;
+}
+.l10:hover{
+    color: #e45600;
+}
+.l11{
+    margin-top: 20px;
+}
+.shi1{
+    width: 900px;
+    height: 100px;
+    margin-top: 80px;
+    position:relative;
+    margin-left: 110px;
+}
+.shangyiye{
+    border: solid rgba(102, 102, 102, 0.13) 0.5px;
+    width: 106px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: rgba(238, 238, 238, 0.23);
+    float: left;
+}
+.shangyiye:hover{
+    color: white;
+    background-color: #e45600;
+}
+.a1111{
+    border: solid rgba(102, 102, 102, 0.13) 0.5px;
+    width: 80px;
+    height: 60px;
+    background-color: rgba(238, 238, 238, 0.23);
+    float: left;
+    text-align: center;
+    line-height: 60px;
+}
+.a4444{
+    border: solid rgba(102, 102, 102, 0.13) 0.5px;
+    width: 80px;
+    height: 60px;
+    background-color:#e45600;
+    float: left;
+    text-align: center;
+    line-height: 60px;
+}
+.a2222{
+    width: 80px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+}
+.a3333{
+    width: 110px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+}

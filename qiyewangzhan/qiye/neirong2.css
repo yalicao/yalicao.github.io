@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: auto;
+    height: 450px;
+    position: relative;
+}
+.liji{
+    width: 148px;
+    height: 50px;
+    border: solid white 1px;
+
+    position: absolute;
+    left: 885px;
+    bottom: 30px;
+
+    text-align: center;
+    line-height: 50px;
+}
+.liji a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.kongjian{
+    width: auto;
+    height: 750px;
+    margin-top: 50px;
+    position: relative;
+}
+.neirong4{
+    width: 1400px;
+    height: 750px;
+    position: absolute;
+    left: 260px;
+}
+.jiu{
+    width: 1400px;
+    height: 150px;
+    position: relative;
+}
+.pei{
+    color: #713998;
+    font-size: 36px;
+    position: absolute;
+    top: 10px;
+    left: 600px;
+}
+.da{
+    width: 1400px;
+    height: 600px;
+    border: solid #713998 1px;
+}
+.pic{
+    width: 1400px;
+    height: 600px;
+    float: left;
+    overflow: hidden;
+}
+
+.pei1{
+    position: absolute;
+    top: 73px;
+    left: 285px;
+}
+.pei2{
+    position: absolute;
+    top: 99px;
+    left: 441px;
+}
+.z1 li{
+    list-style: none;
+    float: left;
+}
+.pic img{
+    width: 1398px;
+    height: 598px;
+}
+.quanbao{
+    width: auto;
+    height: 849px;
+    position: relative;
+    margin-top: 50px;
+}
+.neirong5{
+    width: 1400px;
+    height: 849px;
+    position: absolute;
+    left: 260px;
+}
+.jiu1 {
+    width: 1400px;
+    height: 150px;
+}
+.pei3{
+    color: #713998;
+    font-size: 36px;
+    position: absolute;
+    top: 10px;
+    left: 550px;
+}
+.pei4{
+    position: absolute;
+    top: 80px;
+    left: 450px;
+}
+.jing{
+    width: 1400px;
+    height: 699px;
+}
+.zhuang{
+    width: 1400px;
+    height: 233px;
+    background-color: #00b258;
+}
+.bao{
+    width: 233px;
+    height: 233px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+.bao1{
+    width: 233px;
+    height: 233px;
+    position: absolute;
+    top: -233px;
+    background-color: rgba(140, 140, 140, 0.26);
+}
+.bao:hover .bao1{
+    top: 0px;
+}
+.pingpai{
+    width: auto;
+    height: 570px;
+    position: relative;
+    margin-top: 50px;
+}
+.neirong6{
+    width: 1400px;
+    height: 570px;
+    position: absolute;
+    left: 260px;
+}
+.pei5{
+    color: #713998;
+    font-size: 36px;
+    position: absolute;
+    top: 10px;
+    left: 550px;
+}
+.zhi{
+    width: 1400px;
+    height: 420px;
+}
+.zhi1{
+    width: 1400px;
+    height: 210px;
+}
+.zhi2{
+    width: 350px;
+    height: 210px;
+    float: left;
+}
+.zhi1 img{
+    width: 170px;
+    height: 170px;
+    margin-left: 90px;
+}

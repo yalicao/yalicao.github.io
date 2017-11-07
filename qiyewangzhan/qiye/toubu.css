@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tou{
+    width: auto;
+    height: 40px;
+    position: relative;
+    background-color: #eeeeee;
+}
+.neirong1{
+    width: 1400px;
+    height: 40px;
+    position: absolute;
+    left: 260px;
+}
+.huanying{
+    line-height: 40px;
+    font-size: 14px;
+}
+.dianjidenglu{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    line-height: 40px;
+}
+.login_link{
+    color: #713998;
+    text-decoration: none;
+    font-size: 14px;
+}
+.reg_link{
+    color: #713998;
+    text-decoration: none;
+    font-size: 14px;
+}
+.sousuo{
+    width: auto;
+    height: 120px;
+    position: relative;
+}
+.neirong2{
+    width: 1400px;
+    height: 120px;
+    position: absolute;
+    left: 260px;
+}
+.shuzi{
+    width: 320px;
+    height: 120px;
+    float: right;
+}
+.logo{
+    width: 120px;
+    height: 120px;
+    float: left;
+}
+.biaoti{
+    width: 300px;
+    height: 120px;
+    float: left;
+    position: relative;
+}
+.biaotizi{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+}
+.cstlayer{
+    width: 179px;
+    height: 48px;
+    position: absolute;
+    top: 60px;
+    left: 25px;
+}
+.rexian{
+    position: absolute;
+    top: 30px;
+    right: 10px;
+}
+.kehu{
+    position: absolute;
+    top: 60px;
+    right: 10px;
+}
+.XX{
+    color: #713998;
+    font-size: 18px;
+}
+.daohanglan{
+    width: auto;
+    height: 50px;
+    position: relative;
+    background-color: #713998;
+}
+.neirong3{
+    width: 1400px;
+    height: 50px;
+    position: absolute;
+    left: 260px;
+}
+.dao li{
+    list-style: none;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+}
+.dao a{
+
+    text-decoration: none;
+    color: white;
+}
+.l1{
+    width: 130px;
+    height: 50px;
+
+}
+.l1:hover{
+    background-color: #552974;
+}

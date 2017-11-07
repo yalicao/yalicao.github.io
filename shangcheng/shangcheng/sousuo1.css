@@ -1,0 +1,67 @@
+
+.sousuo{
+    background-color: antiquewhite;
+    width: auto;
+    height: 120px;
+    position: relative;
+}
+.neirong1{
+    width: 1400px;
+    height: 120px;
+    position: absolute;
+    left: 260px;
+}
+.logo{
+    width: 360px;
+    height: 120px;
+    float: left;
+}
+.sousuokuang{
+    width: 680px;
+    height: 120px;
+    float: left;
+}
+.sou{
+    line-height: 120px;
+    text-align: center;
+}
+.input1{
+    width:409px;
+    height: 40px;
+}
+.input2{
+    width: 60px;
+    height: 47px;
+    background-color: #e45600;
+    color: white;
+    margin-left: -6px;
+}
+.shuliang{
+    width: 360px;
+    height: 120px;
+    float: left;
+}
+.gouwuche{
+    width: 220px;
+    height: 55px;
+    border: solid #e45600 1px;
+    position: absolute;
+    right: 0px;
+    top: 32px;
+}
+.zi{
+    position: absolute;
+    top: 0px;
+    left:55px;
+}
+.zi1{
+    position: absolute;
+    top: 0px;
+    left:130px;
+    color: #e45600;
+}
+.zi2{
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}

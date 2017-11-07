@@ -1,0 +1,57 @@
+.sousuo{
+    width: auto;
+    height: 120px;
+    position: relative;
+    background-color: antiquewhite;
+}
+ img{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 155px;
+    top: -75px;
+}
+.input1{
+    width: 409px;
+    height: 40px;
+}
+.input2{
+    width: 60px;
+    height: 47px;
+    background-color: #e45600;
+    margin-left: -6px;
+    color: white;
+}
+.sou{
+    position: absolute;
+    line-height: 120px;
+    left: 655px;
+}
+.gouwuche{
+    width: 220px;
+    height: 55px;
+    border: solid orangered 1px;
+    position: absolute;
+    right: 260px;
+    top: 37px;
+}
+.tupian img{
+    width: 50px;
+    height: 50px;
+    position:absolute;
+    left: 0px;
+    top: 5px;
+}
+.zi{
+    position: absolute;
+    left: 60px;
+    text-align: center;
+    line-height: 55px;
+}
+.shuliang{
+    position: absolute;
+    line-height: 55px;
+    text-align: center;
+    left: 140px;
+    color: #e45600;
+}

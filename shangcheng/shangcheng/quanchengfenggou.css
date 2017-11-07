@@ -1,0 +1,50 @@
+.quanchengfenggou{
+    width: auto;
+    height: 620px ;
+    position: relative;
+}
+.neirong4{
+    width: 1380px;
+    height: 574px;
+    position: absolute;
+    left: 270px;
+    top:50px ;
+}
+.now{
+    width: 320px;
+    height: 574px;
+    float: left;
+    margin-right: 15px;
+}
+.now:hover{
+    cursor: pointer;
+}
+.shop img{
+    width: 320px;
+    height: 574px;
+}
+.off{
+    width: 705px;
+    height: 574px;
+    float: left;
+    margin-right: 15px;
+}
+.off:hover{
+    cursor: pointer;
+}
+.off img{
+    width: 705px;
+    height: 574px;
+}
+.sanfeng{
+    width: 320px;
+    height: 574px;
+    float: left;
+}
+.sanfeng:hover{
+    cursor: pointer;
+}
+.sanfeng img{
+    width: 320px;
+    height: 187px;
+}

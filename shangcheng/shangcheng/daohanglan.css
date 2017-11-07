@@ -1,0 +1,28 @@
+.dikuang{
+    width: auto;
+    height: 60px;
+    background-color: #e45600;
+    position: relative;
+}
+.u1{
+    position: absolute;
+    text-align: center;
+    left: 260px;
+    top: -16px;
+
+}
+.u1 li{
+    list-style: none;
+    float: left;
+    margin-left: 120px;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.l1{
+    width: 190px;
+    height: 60px;
+    background-color: #d14000;
+    margin-bottom: 0px;
+
+}

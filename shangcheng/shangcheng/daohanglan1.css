@@ -1,0 +1,84 @@
+
+
+.daohanglan{
+    width: auto;
+    height: 60px;
+    background-color: #e45600;
+    position: relative;
+}
+.neirong2{
+    width: 1400px;
+    height: 60px;
+    position: absolute;
+    left: 260px;
+}
+.fenlei{
+    width: 370px;
+    height: 60px;
+    float: left;
+    background-color: #d14000;
+}
+.xia{
+    position: absolute;
+    left:290px;
+    top: 0px;
+}
+.quanbu{
+    line-height: 60px;
+    text-align: center;
+    color: white;
+}
+.dianji{
+    width: 1030px;
+    height: 60px;
+    float: left;
+}
+.lianjie li{
+    list-style: none;
+    float: left;
+    color: white;
+    /*margin-right: 70px;*/
+    text-align: center;
+    line-height: 60px;
+}
+.lianjie{
+    position: absolute;
+    left: 331px;
+}
+.lianjie a{
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+.l1{
+    width: 140px;
+    height: 60px;
+    margin-top:-16px;
+    /*background-color: #d14000;*/
+}
+.dianji li:hover{
+    background-color: #d14000;
+    width: 140px;
+    height: 60px;
+    margin-top: -16px;
+}
+.l2{
+    width: 140px;
+    height: 60px;
+    margin-top:-16px;
+}
+.l3{
+    width: 140px;
+    height: 60px;
+    margin-top:-16px;
+}
+.l4{
+    width: 140px;
+    height: 60px;
+    margin-top:-16px;
+}
+.l5{
+    width: 140px;
+    height: 60px;
+    margin-top:-16px;
+}

@@ -1,0 +1,98 @@
+.dibu{
+    width: auto;
+    height: 450px;
+    background-color: #eeeeee;
+    position: relative;
+    margin-top: 20px;
+}
+.neirong5{
+    width: 1400px;
+    height: 450px;
+    position: absolute;
+    left: 260px;
+    /*top: 100px;*/
+}
+.baozheng{
+    width: 1400px;
+    height: 100px;
+}
+.a1{
+    width: 350px;
+    height: 100px;
+    float: left;
+}
+.a2{
+    width: 350px;
+    height: 100px;
+    float: left;
+}
+.a3{
+    width: 350px;
+    height: 100px;
+    float: left;
+}
+.a4{
+    width: 350px;
+    height: 100px;
+    float: left;
+}
+.b1{
+    line-height: 150px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.zhinan{
+    width: 1400px;
+    height: 250px;
+}
+.a5{
+    width: 270px;
+    height: 250px;
+    float: left;
+}
+.a6{
+    width: 270px;
+    height: 250px;
+    float: left;
+}
+.a7{
+    width: 270px;
+    height: 250px;
+    float: left;
+}
+.a8{
+    width: 270px;
+    height: 250px;
+    float: left;
+}
+.a9{
+    width: 320px;
+    height: 250px;
+    float: left;
+}
+.c1 li{
+    list-style: none;
+    margin-top: 25px;
+    /*line-height: 250px;*/
+    text-align: center
+}
+.b2{
+    text-decoration: none;
+    font-size: 14px;
+    color: #666666;
+;
+}
+.dizhi{
+    width: 1400px;
+    height: 80px;
+    /*background-color: white;*/
+}
+.c2{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+}
+.b3{
+    margin-top: 10px;
+}

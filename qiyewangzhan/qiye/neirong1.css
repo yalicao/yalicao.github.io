@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.liaojiewomen{
+    width: auto;
+    height: 1520px;
+    position: relative;
+    margin-top: 40px;
+}
+.neirong4{
+    width: 1400px;
+    height: 1520px;
+    position: absolute;
+    left: 260px;
+}
+.liaojie{
+    width: 1400px;
+    height: 60px;
+}
+.ziti1{
+    font-size: 24px;
+    color: #713998;
+    line-height: 60px;
+    border-bottom: solid 1px #333333;
+}
+.gongsijianjie{
+    width: 1400px;
+    height: 500px;
+    position: relative;
+    /*background-color: #0092ff;*/
+}
+.si1{
+    width: 1400px;
+    height: 400px;
+    position: relative;
+}
+.zi1{
+    width: 650px;
+    height: 400px;
+    float: left;
+}
+.ti1{
+    font-family: Californian FB;
+    color: #8c8c8c;
+    font-size: 48px;
+    margin-top: 40px;
+}
+.ti2{
+    margin-top: 30px;
+    font-size: 24px;
+}
+.ti3{
+    font-family: Californian FB;
+    color: rgba(85, 85, 85, 0.56);
+    font-size: 24px;
+}
+.ti4{
+    width: 550px;
+    margin-top: 30px;
+}
+.tu1{
+    width: 650px;
+    height: 400px;
+    float: left;
+    margin-left: 100px;
+}
+.tu1 img{
+    margin-top: 40px;
+    margin-left: 25px;
+}
+.si2{
+    width: 1400px;
+    height: 110px;
+}
+.ti5{
+    width: 1320px;
+}
+.xian{
+    width: 1400px;
+    border: solid #333333 0.5px;
+}
+.qiyewenhua{
+    width: 1400px;
+    height: 920px;
+}
+.qi1{
+    width: 1400px;
+    height: 415px;
+    margin-top: 40px;
+}
+.tu2{
+    width: 750px;
+    height: 415px;
+    float: left;
+}
+.ti7{
+    width: 650px;
+    height: 415px;
+    float: left;
+}
+.ti7 ul{
+    margin-top: 30px;
+}
+.ti7 li{
+    list-style: none;
+    margin-top: 10px;
+}
+.qi2{
+    width: 1400px;
+    height: 415px;
+    margin-top: 40px;
+    position: relative;
+}
+.tu3{
+    width: 750px;
+    height: 415px;
+    float: left;
+}
+.tu3 img{
+    position: absolute;
+    right: 0px;
+}
+.ti8{
+    width: 650px;
+    height: 415px;
+    float: left;
+    position: relative;
+}
+.ti8 ul{
+    margin-top: 30px;
+    position: absolute;
+    right: 0px;
+}
+.ti8 li{
+    list-style: none;
+    margin-top: 10px;
+}
+.hangyeyoushi{
+    width: auto;
+    height: 1200px;
+    position: relative;
+}
+.neirong5{
+    width: 1400px;
+    height: 1200px;
+    position: absolute;
+    left: 260px;
+}
+.hang1{
+    width: 1400px;
+    height: 130px;
+}
+.hang2{
+    width: 1400px;
+    height: 130px;
+}
+.tubiao{
+    width: 130px;
+    height: 130px;
+    float: left;
+}
+.yunying{
+    width: 1270px;
+    height: 130px;
+    float: left;
+}
+.ziti2{
+    font-size: 20px;
+    color: #713998;
+    margin-top: 30px;
+}

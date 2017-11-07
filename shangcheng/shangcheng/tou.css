@@ -1,0 +1,39 @@
+.tou{
+    background-color: #eeeeee;
+    width: auto;
+    height:30px;
+    position: relative;
+}
+.wangzhan{
+    position: absolute;
+    left: 260px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    color: #555555;
+}
+.wp-new-member-login-link-s{
+    font-size: 14px;
+    white-space: nowrap;
+    position: absolute;
+    left: 650px;
+    text-align: center;
+    line-height: 30px;
+    color: #555555;
+}
+.shoucang{
+    position: absolute;
+    right: 430px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    color: #555555;
+}
+.lianxi{
+    position: absolute;
+    right: 260px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    color: #555555;
+}

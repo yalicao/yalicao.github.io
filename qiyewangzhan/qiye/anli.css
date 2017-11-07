@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.anli{
+    width: auto;
+    height: 1600px;
+    position: relative;
+}
+.neirong4{
+    width: 1400px;
+    height: 1600px;
+    position: absolute;
+    left: 260px;
+}
+.liaojie{
+    width: 1400px;
+    height: 60px;
+}
+.ziti1 {
+    height: 60px;
+    font-size: 24px;
+    color: #713998;
+    line-height: 60px;
+    border-bottom: solid 1px #333333;
+}
+.jianyue a{
+    text-decoration: none;
+    color: #333333;
+}
+.jianyue li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.jianyue a:hover{
+    color: #713998;
+    border-bottom: solid 2px #713998;
+}
+.zhan{
+    width: 1400px;
+    height: 1272px;
+}
+.zhan1{
+    width: 1400px;
+    height: 303px;
+    margin-top: 15px;
+}
+.zhan2{
+    width: 330px;
+    height: 303px;
+    float: left;
+    border: solid 1px #eeeeee;
+}
+.zhan2:hover{
+    border: solid 1px #713998;
+    cursor: pointer;
+}
+.zhan4{
+    width: 330px;
+    height: 253px;
+}
+.zhan4 img{
+    margin-left: 19px;
+    margin-top: 15px;
+}
+.zhan5{
+    width: 330px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+.zhan3{
+    width: 330px;
+    height: 303px;
+    float: left;
+    margin-left: 23px;
+    border: solid 1px #eeeeee;
+}
+.zhan3:hover{
+    border: solid 1px #713998;
+    cursor: pointer;
+}
+.shi1{
+    width: 950px;
+    height: 100px;
+    margin-top: 80px;
+    position:relative;
+    margin-left: 262px;
+}
+.shangyiye{
+    border: solid rgba(102, 102, 102, 0.13) 0.5px;
+    width: 106px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: rgba(238, 238, 238, 0.23);
+    float: left;
+}
+.shangyiye:hover{
+    color: white;
+    background-color: #e45600;
+}
+.a1111{
+    border: solid rgba(102, 102, 102, 0.13) 0.5px;
+    width: 80px;
+    height: 60px;
+    background-color: rgba(238, 238, 238, 0.23);
+    float: left;
+    text-align: center;
+    line-height: 60px;
+}
+.a1111:hover{
+    color: white;
+    background-color: #e45600;
+}
+.a4444{
+    border: solid rgba(102, 102, 102, 0.13) 0.5px;
+    width: 80px;
+    height: 60px;
+    background-color:#e45600;
+    float: left;
+    text-align: center;
+    line-height: 60px;
+}
+.a2222{
+    width: 80px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+}
+.a3333{
+    width: 110px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+}

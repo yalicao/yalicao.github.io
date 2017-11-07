@@ -1,0 +1,127 @@
+.xin li{
+    list-style: none;
+    float: left;
+    margin-left: 30px;
+    text-align: center;
+    line-height: 43px;
+}
+.biaoti{
+    position: absolute;
+    left: 220px;
+    top: 830px;
+}
+.zi1{
+    width: 160px;
+    height: 43px;
+    background-color: #e45600;
+    color: white;
+}
+.zongkuang{
+    width: 1360px;
+    height: 390px;
+    position:absolute;
+    top: 900px;
+    left: 280px;
+}
+.kuang1{
+    width: 255px;
+    height: 390px;
+    float: left;
+    margin-right: 20px;
+}
+.kuang2{
+    width: 255px;
+    height: 390px;
+    float: left;
+    margin-right: 20px;
+}
+.kuang3{
+    width: 255px;
+    height: 390px;
+    float: left;
+    margin-right: 20px;
+}
+.kuang4{
+    width: 255px;
+    height: 390px;
+    float: left;
+    margin-right: 20px;
+}
+.kuang5{
+    width: 255px;
+    height: 390px;
+    float: left;
+}
+.beijin1{
+    width: 255px;
+    height: 270px;
+    background-color: #eeeeee;
+}
+.tupian1{
+    position: absolute;
+    bottom: 230px;
+    left: -100px;
+}
+.wuyu li{
+    list-style: none;
+}
+.beijin2{
+    width: 255px;
+    height: 270px;
+    background-color: #eeeeee;
+}
+.tupian2{
+    position: absolute;
+    bottom: 230px;
+    left:185px;
+}
+.beijin3{
+    width: 255px;
+    height: 270px;
+    background-color: #eeeeee;
+}
+.tupian3{
+    position: absolute;
+    bottom: 230px;
+    left:443px;
+}
+.beijin4{
+    width: 255px;
+    height: 270px;
+    background-color: #eeeeee;
+}
+.tupian4{
+    position: absolute;
+    bottom: 230px;
+    left:720px;
+}
+.beijin5{
+    width: 255px;
+    height: 270px;
+    background-color: #eeeeee;
+}
+.tupian5{
+    position: absolute;
+    bottom: 230px;
+    right: 362px;
+}
+.tupian1 img{
+    width: 152px;
+    height: 143px;
+}
+.tupian2 img{
+    width: 152px;
+    height: 143px;
+}
+.tupian3 img{
+    width: 152px;
+    height: 143px;
+}
+.tupian4 img{
+    width: 152px;
+    height: 143px;
+}
+.tupian5 img{
+    width: 152px;
+    height: 143px;
+}

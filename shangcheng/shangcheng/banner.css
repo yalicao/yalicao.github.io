@@ -1,0 +1,28 @@
+.cebianlan{
+    position: relative;
+    top: -16px;
+}
+.cebianlan li{
+    list-style: none;
+    line-height: 25px;
+
+}
+.u2{
+    position: absolute;
+    left: 260px;
+    background-color: rgba(238, 238, 238, 0.85);
+    width: 337px;
+    height: 600px;
+
+
+}
+.banner img{
+    width: auto;
+    height: 600px;
+    left: 0px;
+    top: 218px;
+}
+.banner{
+    width: 1920px;
+    height: 600px;
+}

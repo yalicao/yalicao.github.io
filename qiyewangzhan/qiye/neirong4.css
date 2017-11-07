@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.lianxi{
+    width: auto;
+    height: 700px;
+    margin-top: 50px;
+    position: relative;
+}
+.neirong4{
+    width: 1400px;
+    height: 700px;
+    position: absolute;
+    left: 260px;
+    background-color: #eeeeee;
+}
+.lian1{
+    width: 700px;
+    height: 700px;
+    float: left;
+    position: relative;
+}
+.lian2{
+    width: 700px;
+    height: 60px;
+    margin-top: 60px;
+}
+.lian2 li{
+    list-style: none;
+    float: left;
+    margin-left: 115px;
+    font-size: 20px;
+}
+.xi1{
+    color: #e45600;
+}
+.lian3{
+    width: 700px;
+    height: 150px;
+}
+.lian3 li{
+    list-style: none;
+    margin-left: 115px;
+    margin-top: 30px;
+}
+.xi2{
+    color: #555555;
+}
+.weima img{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
